@@ -1,6 +1,6 @@
 # Mouse Movement Heatmap
-Generate a heatmap of your mouse movement using **pandas** and **plotly**.
-To view the notebook correctly, please clone the notebook and run it yourself!
+Generate a heatmap of your mouse movement using **pandas** and **plotly**.<br>
+**To view the notebook correctly, please clone the notebook and run it yourself!**
 
 ## Preview
 
